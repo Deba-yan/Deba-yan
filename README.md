@@ -76,7 +76,7 @@
 ---
 **📊GitHub Stats**
 --
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deba-yan&theme=tokyonight" height="180">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deba-yan&theme=tokyonight" height="180" width="100%" >
 
 ---
 <p align="center">✨ Thanks for visiting — keep learning, keep solving, keep building! ✨</p>
