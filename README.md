@@ -9,11 +9,11 @@
   <img src="https://gifdb.com/images/high/fast-binary-blue-coding-paluyjaj4cugdhll.gif" width="420" alt="Coding">
 </p>
 
----
 
-## ✨ "We know what we are, but know not what we may be." — William Shakespeare
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20know%20what%20we%20are,%20but%20know%20not%20what%20we%20may%20be.&author=William%20Shakespeare">
+</p>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deba-yan&label=Profile%20Visits&color=blue&style=flat"/>
@@ -74,5 +74,9 @@
 </p>
 
 ---
+**📊GitHub Stats**
+--
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deba-yan&theme=tokyonight" height="180">
 
+---
 <p align="center">✨ Thanks for visiting — keep learning, keep solving, keep building! ✨</p>
