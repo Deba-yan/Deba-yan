@@ -12,7 +12,6 @@
 ---
 
 ## ✨ "We know what we are, but know not what we may be." — William Shakespeare
-<p align="center"><i>Let this inspire every learner, creator, and explorer who visits this profile.</i></p>
 
 ---
 
