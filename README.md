@@ -15,9 +15,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deba-yan&label=Profile%20Visits&color=blue&style=flat"/>
-</p>
 
 ---
 
