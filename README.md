@@ -6,7 +6,7 @@
 <h3 align="center">Passionate Coder • Frontend Developer • Problem Solver • Interest in AIML Projects</h3>
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/fast-binary-blue-coding-paluyjaj4cugdhll.gif" width="420" alt="Coding">
+  <img src="./2.gif" width="420" alt="Vigilante Deku">
 </p>
 
 
