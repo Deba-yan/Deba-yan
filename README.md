@@ -21,7 +21,7 @@
 ## 🚀 About Me  
 - 🌱 Learning **Frontend Frameworks & AI/ML Applications**  
 - 💻 Skilled in **C, C++, Python, HTML, CSS**  
-- 🔗 Problem Solver on **LeetCode**  
+- 🔗 Problem Solver on **LeetCode,interviewbit,geeksforgeeks**  
 - 📬 Contact me: **debayankundu02@gmail.com**
 
 ---
