@@ -20,7 +20,7 @@
 
 ## 🚀 About Me  
 - 🌱 Learning **Frontend Frameworks & AI/ML Applications**  
-- 💻 Skilled in **C, C++, Python,java, HTML, CSS**  
+- 💻 Skilled in **C , C++, Python , java , js , HTML , CSS**  
 - 🔗 Problem Solver on **LeetCode,interviewbit,geeksforgeeks**  
 - 📬 Contact me: **debayankundu02@gmail.com**
 
@@ -28,39 +28,33 @@
 
 # 🌐 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/debayan-kundu-a12b86370" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/Debayan08/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45"/>
-</a>
+  <a href="https://linkedin.com/in/debayan-kundu-a12b86370" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Debayan08/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45"/>
+  </a>
 </p>
+
 
 ---
 
-# 📝 Languages  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-</p>
+# 📝 Languages 
 
-# 🎨 Frontend (Frameworks & Basics)  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
+<div align="center">
 
-# 🛠️ Tools & Platforms  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+### 💻 **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=c,cpp,js,py,java&theme=light" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</p>
+### 🎨 **Design & Styling**
+<img src="https://skillicons.dev/icons?i=html,css&theme=light" />
+
+### 🗄️ **Databases & Tools**
+<img src="https://skillicons.dev/icons?i=mongodb,github,linux&theme=light" />
+
+</div>
+
 
 ---
 ## 🏆 My Holopin Badge
