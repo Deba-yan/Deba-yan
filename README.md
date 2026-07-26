@@ -65,9 +65,7 @@
 ---
 ## 🏆 My Holopin Badge
 
-<a href="https://www.holopin.io/userbadge/cms1tp4jx0004l704yyjz48ii">
-  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbTdubW5xbGc0NDkyMGNrd2Z5eW04aXEwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150">
-</a>
+[![An image of @debayan6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debayan6)](https://holopin.io/@debayan6)
 
 ---
 
