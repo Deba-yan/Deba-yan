@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://broadcast.plainviewplugins.com/wp-content/uploads/2017/01/ninja_forms_banner-772x250.png" width="100%" alt="Ninja Banner">
+  <img src="./banner.gif" width="100%" alt="Ninja Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Debayan Kundu</h1>
